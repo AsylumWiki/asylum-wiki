@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/contributors/AsylumWiki/asylum-wiki?style=flat-square&label=Contributors">
   <img src="https://img.shields.io/github/created-at/AsylumWiki/asylum-wiki?style=flat-square&label=CreatedAt">
   <img src="https://img.shields.io/github/last-commit/AsylumWiki/asylum-wiki?display_timestamp=author&style=flat-square&label=Last%20Commit">
-  <img src="https://img.shields.io/github/license/AsylumWiki/asylum-wiki?style=flat-square&label=License">
+  <img src="https://img.shields.io/badge/License-CC_BY%E2%80%93SA_4.0-green?style=flat-square">
 </p>
 
 > 🚧 This Wiki is being compiled overtime and will be released ASAP.
