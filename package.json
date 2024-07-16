@@ -1,0 +1,31 @@
+{
+  "name": "asylum-wiki",
+  "description": "Asylum.wiki is dedicated to providing information and resources to all those seeking protection from persecution and serious human rights violations",
+  "keywords": [
+    "asylum",
+    "wiki"
+  ],
+  "homepage": "https://github.com/AsylumWiki/asylum-wiki#readme",
+  "bugs": {
+    "url": "https://github.com/AsylumWiki/asylum-wiki/issues",
+    "email": "info@asylum.wiki"
+  },
+  "license": "CC-BY-SA-4.0",
+  "author": {
+    "name": "Yumi Chow",
+    "email": "info@yumichow.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsylumWiki/asylum-wiki.git"
+  },
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.1"
+  }
+}
