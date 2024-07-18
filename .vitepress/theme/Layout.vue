@@ -1,7 +1,5 @@
 <template>
-  <ClientOnly>
-    <DefaultTheme.Layout />
-  </ClientOnly>
+  <DefaultTheme.Layout />
 </template>
 
 <script setup lang="ts">
