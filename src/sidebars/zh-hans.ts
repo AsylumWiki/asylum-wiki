@@ -1,7 +1,10 @@
 export default [
   {
     text: "导读",
-    items: [{ text: "资源整合", link: "/zh-hans/refs" }],
+    items: [
+      { text: "庇护简说", link: "/zh-hans/refs/asylum" },
+      { text: "签证相关资讯", link: "/zh-hans/refs/visa" },
+    ],
   },
   {
     text: "欧洲",
