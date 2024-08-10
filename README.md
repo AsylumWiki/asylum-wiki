@@ -12,12 +12,12 @@
 > 🚧 This Wiki is being compiled overtime and will be released ASAP.
 
 ## Intro
+
 AsylumWiki is a free, open and inclusive information aggregation platform.🏳️‍🌈🏳️‍⚧️🕊️
 
 We dedicate to providing information and resources to all those seeking protection from persecution and serious human rights violations. Information sources include: legally obtained public information, authorized cases and stories, and verified professional resource referrals.
 
 Even though the world is broken, we never give up mending it together.✊
-
 
 ## Declarations
 
@@ -27,7 +27,7 @@ Even though the world is broken, we never give up mending it together.✊
 > <br>
 > 💝 We are willing to discuss your story, but our opinions do not constitute any professional advice, including legal and immigration, etc. If necessary, please seek help from professionals.  
 > <br>
-> 🕒 Due to the diversity, complexity and variability of the world, despite our best efforts, we cannot be responsible for the authenticity, reliability and timeliness of the content.  
+> 🕒 Due to the diversity, complexity and variability of the world, despite our best efforts, we cannot be responsible for the authenticity, reliability and timeliness of the content.
 
 ## Contributors
 
@@ -39,6 +39,8 @@ Even though the world is broken, we never give up mending it together.✊
   <a href="https://github.com/YumiChow"><img src="https://img.shields.io/badge/GitHub-YumiChow-blue?style=flat-square"></a>
   <a href="mailto:info@yumichow.com"><img src="https://img.shields.io/badge/Email-info%40yumichow.com-blue?style=flat-square"></a>
 </p>
+
+<br>
 
 > All friends are welcome to participate in the writing of AsylumWiki, including but not limited to professional advice on immigration and law (if you are qualified), the latest information on the human rights situation and asylum policies in different regions, your own story or experience in applying for asylum, etc.  
 > <br>
@@ -53,6 +55,7 @@ Even though the world is broken, we never give up mending it together.✊
 > We are currently in the construction phase and welcome everyone to join us as a volunteer. Please contact us through the contact information published below.
 
 ## Contacts
+
 <p style="display: flex; gap: 10px;">
   <a href="https://x.com/AsylumWiki"><img src="https://img.shields.io/badge/Twitter-%40AsylumWiki-blue?style=flat-square"></a>
   <a href="https://t.me/AsylumWiki"><img src="https://img.shields.io/badge/Telegram-%40AsylumWiki-blue?style=flat-square"></a>
