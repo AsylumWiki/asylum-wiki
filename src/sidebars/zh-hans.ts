@@ -7,6 +7,10 @@ export default [
     ],
   },
   {
+    text: "北美",
+    items: [{ text: "北美总览", link: "/zh-hans/na" }],
+  },
+  {
     text: "欧洲",
     items: [{ text: "欧洲总览", link: "/zh-hans/eu" }],
   },
