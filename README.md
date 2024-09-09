@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/License-CC_BY%E2%80%93SA_4.0-green?style=flat-square">
 </p>
 
-> 🚧 This Wiki is being compiled overtime and will be released ASAP.
-
 ## Intro
 
 AsylumWiki is a free, open and inclusive information aggregation platform.🏳️‍🌈🏳️‍⚧️🕊️
@@ -29,30 +27,17 @@ Even though the world is broken, we never give up mending it together.✊
 > <br>
 > 🕒 Due to the diversity, complexity and variability of the world, despite our best efforts, we cannot be responsible for the authenticity, reliability and timeliness of the content.
 
-## Contributors
+## Donations
 
-### Yumi Chow (She/Her) - Founder
-
-<p style="display: flex; gap: 10px;">
-  <a href="https://x.com/YumiChow916"><img src="https://img.shields.io/badge/Twitter-%40YumiChow916-blue?style=flat-square"></a>
-  <a href="https://t.me/yumi916"><img src="https://img.shields.io/badge/Telegram-%40yumi916-blue?style=flat-square"></a>
-  <a href="https://github.com/YumiChow"><img src="https://img.shields.io/badge/GitHub-YumiChow-blue?style=flat-square"></a>
-  <a href="mailto:info@yumichow.com"><img src="https://img.shields.io/badge/Email-info%40yumichow.com-blue?style=flat-square"></a>
-</p>
-
-<br>
-
+> Due to the lack of a sound financial disclosure system, we are not accepting donations at this time.  
+> <br>
+> We are currently in the construction phase and welcome everyone to join us as a volunteer.
+> <br>
 > All friends are welcome to participate in the writing of AsylumWiki, including but not limited to professional advice on immigration and law (if you are qualified), the latest information on the human rights situation and asylum policies in different regions, your own story or experience in applying for asylum, etc.  
 > <br>
 > Our team needs more strength. If you are a qualified immigration consultant, lawyer or agency, and you would like to join the team's daily work, please contact us.  
 > <br>
 > For any type of participation, please contact us through the contact information published below.
-
-## Donations
-
-> Due to the lack of a sound financial disclosure system, we are not accepting donations at this time.  
-> <br>
-> We are currently in the construction phase and welcome everyone to join us as a volunteer. Please contact us through the contact information published below.
 
 ## Contacts
 

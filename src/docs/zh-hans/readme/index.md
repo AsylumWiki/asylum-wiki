@@ -3,13 +3,10 @@
 <p style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/github/stars/AsylumWiki/asylum-wiki?style=flat-square&label=Stars">
   <img src="https://img.shields.io/github/watchers/AsylumWiki/asylum-wiki?style=flat-square&label=Watchers">
-  <img src="https://img.shields.io/github/contributors/AsylumWiki/asylum-wiki?style=flat-square&label=Contributors">
   <img src="https://img.shields.io/github/created-at/AsylumWiki/asylum-wiki?style=flat-square&label=CreatedAt">
   <img src="https://img.shields.io/github/last-commit/AsylumWiki/asylum-wiki?display_timestamp=author&style=flat-square&label=Last%20Commit">
   <img src="https://img.shields.io/badge/License-CC_BY%E2%80%93SA_4.0-green?style=flat-square">
 </p>
-
-> 🚧 这个维基正在逐步编写中，将尽快发布。
 
 ## 简介
 
@@ -29,30 +26,17 @@ AsylumWiki 是一个免费、开放且包容的信息聚合平台。🏳️‍�
 > <br>
 > 🕒 由于世界的多样性、复杂性和变化性，尽管我们尽了最大努力，但我们无法对内容的真实性、可靠性和时效性负责。
 
-## 贡献者
+## 捐助
 
-### Yumi Chow (She/Her) - Founder
-
-<p style="display: flex; gap: 10px;">
-  <a href="https://x.com/YumiChow916"><img src="https://img.shields.io/badge/Twitter-%40YumiChow916-blue?style=flat-square"></a>
-  <a href="https://t.me/yumi916"><img src="https://img.shields.io/badge/Telegram-%40yumi916-blue?style=flat-square"></a>
-  <a href="https://github.com/YumiChow"><img src="https://img.shields.io/badge/GitHub-YumiChow-blue?style=flat-square"></a>
-  <a href="mailto:info@yumichow.com"><img src="https://img.shields.io/badge/Email-info%40yumichow.com-blue?style=flat-square"></a>
-</p>
-
-<br>
-
+> 由于缺乏完善的财务披露制度，我们目前不接受捐款。
+> <br>
+> 我们目前处于建设阶段，欢迎大家以志愿者身份加入我们。
+> <br>
 > 欢迎所有朋友参与 AsylumWiki 的编写，包括但不限于移民和法律方面的专业建议（如果您有资质）、不同地区人权状况和避难政策的最新信息、您自己申请避难的故事或经验等。
 > <br>
 > 我们的团队需要更多力量。如果您是有资质的移民顾问、律师或机构，并愿意加入团队的日常工作，请联系我们。
 > <br>
 > 对于任何形式的参与，请通过下方发布的联系信息与我们联系。
-
-## 捐助
-
-> 由于缺乏完善的财务披露制度，我们目前不接受捐款。
-> <br>
-> 我们目前处于建设阶段，欢迎大家以志愿者身份加入我们。请通过下方发布的联系信息与我们联系。
 
 ## 联系我们
 

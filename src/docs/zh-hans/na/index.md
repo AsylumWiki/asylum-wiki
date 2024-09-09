@@ -21,19 +21,11 @@ hero:
 
 ### 相关文件
 
-Refugee claims - Immigration and Refugee Board of Canada
-[https://www.irb-cisr.gc.ca/en/refugee-claims/pages/index.aspx]
+[Refugee claims - Immigration and Refugee Board of Canada](https://www.irb-cisr.gc.ca/en/refugee-claims/pages/index.aspx)
 
-难民聆讯准备 难民申请人指南 安大略省大多伦多地区 Simplified Chinese
-[https://myrefugeeclaim.ca/en/refugee-hearing-preparation-guide/]
+[难民聆讯准备 难民申请人指南 安大略省大多伦多地区](https://myrefugeeclaim.ca/en/refugee-hearing-preparation-guide/)
 
-<!-- [https://pubsdb.lss.bc.ca/pdfs/pubs/Refugee-Hearing-Preparation-zho-s.pdf] -->
-
-加拿大对难民申请的程序 Simplified Chinese - Canadian Red Cross
-[https://www.redcross.ca/crc/documents/Where-We-Work/Canada/BC/Simplified-Chinese_Refugee-Claims-Process.pdf]
-
-联合国难民署国际保护准则第 9 号：基于性倾向和/或性别认同的难民身分申请 (UNHCR Guidelines on International Protection No. 9: Claims to Refugee Status based on Sexual Orientation and/or Gender Identity)
-[https://www.unhcr.org/509136ca9.pdf]
+[联合国难民署国际保护准则第 9 号：基于性倾向和/或性别认同的难民身分申请 (UNHCR Guidelines on International Protection No. 9: Claims to Refugee Status based on Sexual Orientation and/or Gender Identity)](https://www.unhcr.org/509136ca9.pdf)
 
 ### 简要总结
 

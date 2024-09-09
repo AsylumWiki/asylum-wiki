@@ -72,8 +72,6 @@ hero:
 
 [Demande d'asile 申请庇护（法语）](https://www.service-public.fr/particuliers/vosdroits/F2232)
 
-[在法国申请庇护的完整指南（英语）](https://www.frenchrefugeecouncil.com/asylum-in-france)，该文件要求有地址，然而
-
 [^2]: [Les premières données de l'asile 2022 à l'Ofpra sont disponibles [Chiffres provisoires]](https://www.ofpra.gouv.fr/actualites/les-premieres-donnees-de-lasile-2022-a-lofpra-sont-disponibles-chiffres-provisoires)
 
 ## 参考资料

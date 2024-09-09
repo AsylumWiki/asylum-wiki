@@ -1,4 +1,4 @@
 export default [
-  { text: 'Home', link: '/en/' },
-  { text: 'Readme', link: '/en/readme' }
+	{ text: 'Home', link: '/en/' },
+	{ text: 'About Us', link: '/en/readme' }
 ]
