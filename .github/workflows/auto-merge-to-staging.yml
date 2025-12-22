@@ -1,38 +1,45 @@
 name: Auto-merge dev into staging
 
 on:
- pull_request:
+  pull_request:
     types: [closed]
-    branches:
-      - dev/code
-      - dev/docs
 
 jobs:
   auto_merge:
+    if: >
+      github.event.pull_request.merged == true &&
+      (github.event.pull_request.base.ref == 'dev/code' ||
+       github.event.pull_request.base.ref == 'dev/docs')
+
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Create or update PR to staging
+      - name: Create PR to staging
+        id: create_pr
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: staging
-          head: ${{ github.ref_name }}
-          title: "Auto merge ${{ github.ref_name }} into staging"
+          head: ${{ github.event.pull_request.base.ref }}
+          title: "Auto merge ${{ github.event.pull_request.base.ref }} into staging"
           body: |
-            This PR was automatically created by GitHub Actions to merge ${{ github.ref_name }} into staging.
+            Auto-generated PR after merge into ${{ github.event.pull_request.base.ref }}.
+            Source PR: #${{ github.event.pull_request.number }}
           merge-method: squash
           commit-message: |
-            Auto-merge ${{ github.ref_name }} into staging via PR #${{ steps.create_pr.outputs.pull-request-number }} 
-            (commit ${{ github.sha }})
-          assignees: ""
+            chore(staging): sync ${{ github.event.pull_request.base.ref }}
+            
+            Source PR: #${{ github.event.pull_request.number }}
+            Source commit: ${{ github.sha }}
 
       - name: Enable automerge
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
           merge-method: squash
