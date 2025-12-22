@@ -1,0 +1,37 @@
+name: Auto-merge dev into staging
+
+on:
+  push:
+    branches:
+      - dev/code
+      - dev/docs
+
+jobs:
+  auto_merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create or update PR to staging
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: staging
+          head: ${{ github.ref_name }}
+          title: "Auto merge ${{ github.ref_name }} into staging"
+          body: |
+            This PR was automatically created by GitHub Actions to merge ${{ github.ref_name }} into staging.
+          merge-method: squash
+          commit-message: |
+            Auto-merge ${{ github.ref_name }} into staging via PR #${{ steps.create_pr.outputs.pull-request-number }} 
+            (commit ${{ github.sha }})
+          assignees: ""
+
+      - name: Enable automerge
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
+          merge-method: squash
