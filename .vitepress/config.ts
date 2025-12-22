@@ -20,7 +20,8 @@ export default () => {
     title: "AsylumWiki",
     description:
       "AsylumWiki is dedicated to providing information and resources to all those seeking protection from persecution and serious human rights violations",
-    head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+    base: '/asylum-wiki/',
+    head: [["link", { rel: "icon", href: "favicon.ico" }]],
     themeConfig: {
       // https://vitepress.dev/reference/default-theme-config
       nav: [{ text: "Home", link: "/" }],
