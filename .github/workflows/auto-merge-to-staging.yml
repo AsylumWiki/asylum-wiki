@@ -1,7 +1,8 @@
 name: Auto-merge dev into staging
 
 on:
-  push:
+ pull_request:
+    types: [closed]
     branches:
       - dev/code
       - dev/docs
