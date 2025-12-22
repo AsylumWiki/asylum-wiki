@@ -1,11 +1,17 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
-hero:
-  name: "Asylum.wiki"
-  text: ""
-  tagline: "Everyone has the right to seek safety"
-
 ---
 
+<script setup>
+import { useData, withBase } from 'vitepress'
+
+const { site } = useData()
+
+const localeLink = site.value.locales?.root?.link || '/'
+
+const target = withBase(localeLink)
+
+if (typeof window !== 'undefined') {
+  window.location.replace(target)
+}
+</script>
