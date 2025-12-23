@@ -11,7 +11,7 @@ onBeforeMount(() => {
   const path = useRoute().path
   const router = useRouter()
 
-  if (path === '/') {
+  if (!path.startsWith('/en/') && !path.startsWith('/zh-hant/') && !path.startsWith('/zh-hans/')) {
     let lang = 'en'
     if (localStorage.getItem('lang')) {
       lang = <string> localStorage.getItem('lang')
@@ -33,13 +33,14 @@ onBeforeMount(() => {
       }
       localStorage.setItem('lang', lang)
     }
-    router.go(`/${lang}/`)
+    router.go(`/${lang}${path}`)
   }
 })
 
 const lang = useData().lang
+const route = useRoute()
 watchEffect(() => {
-  if (inBrowser) {
+  if (inBrowser && (route.path.startsWith('/en/') || route.path.startsWith('/zh-hant/') || route.path.startsWith('/zh-hans/'))) {
     localStorage.setItem('lang', lang.value)
   }
 })
