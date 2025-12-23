@@ -11,22 +11,24 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.pull_request.merged == true
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Create or update PR from main to dev
+      - name: Create PR from main to dev
+        id: create_pr
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: dev
-          head: main
+          branch: main
           title: "Sync main into dev"
           body: |
             Automatically merge main into dev after dev PR merged into main.
-          merge-method: merge
-
+          commit-message: "Sync main into dev via GitHub Actions"
+          delete-branch: false
+        
       - name: Enable auto-merge
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
