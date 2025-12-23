@@ -89,7 +89,7 @@ IRB是一个独立于行政机构的**行政仲裁处(administrative tribunal** 
 [给难民申请人的信息 - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/information-refugee-claimants-zh.html)
 
 但是如果说难民真的就是照情况对定义的话，那么加拿大就不会有那么多的移民法律师了。但现实并非如此，在IRPA的定义背后还有不为常人所知的，
-一整套关于难民法的普通法司法判决，而正是这些司法判决，移民部长指定的规例，和IRPA一起塑造了加拿大的难民法体系。本文将作为本文链接中所指向的知识的扩充，将侧重于普通法判例中所衍生的对于难民的详细界定，
+一整套关于难民法的普通法司法判决，而正是这些司法判决，移民部长制定的规例，和IRPA一起塑造了加拿大的难民法体系。本文将作为本文链接中所指向的知识的扩充，将侧重于普通法判例中所衍生的对于难民的详细界定，
 以及加拿大难民法之于LGBTQIA+人群（尤其是跨性别人士）
 本文将不再赘述链接里面所提及的内容，若读者想知道加拿大难民法的全貌，请务必造访本文所提及的链接。
 
@@ -101,7 +101,7 @@ IRB是一个独立于行政机构的**行政仲裁处(administrative tribunal** 
 
 [Refugee claims - Immigration and Refugee Board of Canada](https://www.irb-cisr.gc.ca/en/refugee-claims/pages/index.aspx)
 
-[ My Refugee Claim 难民申请人指南 安大略省大多伦多地区(非官方文件，没有中文版）(https://myrefugeeclaim.ca/en/)
+[ My Refugee Claim 难民申请人指南 安大略省大多伦多地区(非官方文件，没有中文版）](https://myrefugeeclaim.ca/en/)
 
 [联合国难民署国际保护准则第 9 号：基于性倾向和/或性别认同的难民身分申请 (UNHCR Guidelines on International Protection No. 9: Claims to Refugee Status based on Sexual Orientation and/or Gender Identity)](https://www.unhcr.org/509136ca9.pdf)
 
