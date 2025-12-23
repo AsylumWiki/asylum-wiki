@@ -8,7 +8,10 @@ export default [
 	},
 	{
 		text: '北美',
-		items: [{ text: '北美总览', link: '/zh-hans/na/' }]
+		items: [
+			{ text: '北美总览', link: '/zh-hans/na/na-overview/' },
+			{ text: '加拿大', link: '/zh-hans/na/Canada/' }
+		]
 	},
 	{
 		text: '欧洲',
