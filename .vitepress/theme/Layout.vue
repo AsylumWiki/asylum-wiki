@@ -38,8 +38,9 @@ onBeforeMount(() => {
 })
 
 const lang = useData().lang
+const route = useRoute()
 watchEffect(() => {
-  if (inBrowser) {
+  if (inBrowser && route.path !== "/") {
     localStorage.setItem('lang', lang.value)
   }
 })
