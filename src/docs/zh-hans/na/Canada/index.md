@@ -93,6 +93,80 @@ IRB是一个独立于行政机构的**行政仲裁处(administrative tribunal** 
 以及加拿大难民法之于LGBTQIA+人群（尤其是跨性别人士）
 本文将不再赘述链接里面所提及的内容，若读者想知道加拿大难民法的全貌，请务必造访本文所提及的链接。
 
+## 谁符合难民的定义？
+
+正如IRPA第96条对于公约难民的定义：一个人是难民的话那一个人就**必须**：
+
+1：在原籍国之外；
+
+2：还在国外的原因是因为恐惧回国遭到迫害;其中包括：
+  * 主观上恐惧回国，以及
+  * 该恐惧有客观依据（i.e.客观上站得住脚）
+
+3：该恐惧要基于其中《难民公约》中的一个或多个理由;其中包括：
+  * 种族;
+  * 信仰;
+  * 民族 和/或 国籍;
+  * 特定社会团体; 和/或
+  * 政治意见.
+
+4：申请人无法，或正是因为ta的恐惧，不愿寻求原籍国保护，**且**
+
+5：申请人没有国内避难选择（Internal Flight Alternative,简称IFA）（i.e.声请人在国内没有地方可逃过去而又能免受ta所恐惧的迫害）.
+
+（特别强调：以上条件**缺一不可**）
+
+## 难民的定义之于LGBTQIA+人士：特定社会团体
+
+看到了上面对于难民的定义，我们可能会产生一个疑问：
+一个认同是LGBTQIA+同时又是寻求庇护者的人能不能够因为自己LGBTQIA+的身份符合难民的定义？
+
+加拿大最高法院早在1993年的  *Canada (Attorney General) v. Ward* , [1993] 2 S.C.R. 689一案中明确了《难民公约》中的“特定社会团体” 
+**包含** 性少数，并且该案提出对于特定社会团体的定义也使得该词能够囊括性取向，性别认同，性别表达以及性特征，
+从而使得LGBTQIA+的声请人能基于自己是LGBTQIA+的身份声请难民：
+
+<details>
+
+<summary> 判词节选（英文）</summary>
+
+>  The meaning assigned to "particular social group" in the Act should take into account the general underlying themes of the defence of human rights and anti-discrimination that form the basis for the international refugee protection initiative.  
+> The tests proposed in Mayers, supra, Cheung, supra, and Matter of Acosta, supra, provide a good working rule to achieve this result.  
+> They identify three possible categories:
+>
+> (1) groups defined by an innate or unchangeable characteristic;
+>
+> (2) groups whose members voluntarily associate for reasons so fundamental to their human dignity that they should not be forced to forsake the association; and
+> 
+> (3) groups associated by a former voluntary status, unalterable due to its historical permanence.
+>
+> **The first category would embrace individuals fearing persecution on such bases as gender**, linguistic background **and sexual orientation**, while the second would encompass, for example, human rights activists.  
+> The third branch is included more because of historical intentions, although it is also relevant to the anti-discrimination influences, in that one's past is an immutable part of the person.
+> - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) (emphasis added)
+
+</details>
+
+中文白话文转译（笔者提供，可能不准确）：
+
+> 法案中规定的“特定社会团体”应该考量这一点：正是难民保护背后所反映的对人权的保护以及反歧视的理念构成了难民保护的基础。
+> 在 Mayers一案, Cheung一案 以及Acosta一案中所提出的对于特定社会团体的判断标准能够很好地达到刚才提到的这两点。
+>
+> 这个判断标准提出一个“特定社会团体”大致能被分为三大类：
+>
+> （1）被一个固有的或不可变的特征所定义的团体
+>
+> （2）团体成员自愿加入该团体所形成的团体，但团体形成的原因之于人的尊严是如此的重要，以至于ta们不能够被要求放弃在该团体的身份 以及
+>
+> （3）团体成员先前自愿加入所形成的团体，但因为过去的事情使得就算是团体成员退了这个团体也没办法免受因为该团体身份所导致的迫害
+>
+> 这个判断标准提出的第一个大类将能够包含害怕因为**性别**，会说的语言和/或**性取向**害怕被迫害的人，同时第二个大类将囊括像人权活动家一类的人。第三个大类所囊括进来的人尽管说更多的是因为历史原因被囊括进来的，但是反歧视的理念也与之相关：因为一个人改变不了ta的过去。
+>
+> - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) （重点加粗表示）
+
+但是，能不能作为声请理由跟声请充不充分是两码事，能作为声请理由**并不代表**仅仅是拥有LGBTQIA+的身份这一件事就足以使得一个寻求庇护者符合难民的定义，
+或加拿大就能够仅仅因为一个难民声请人是LGBTQIA+的人这一点而认可该声请人为难民。一宗难民声请要想成立，上面提到的难民的定义的5个部分缺一不可。
+（举个例子：B声请难民因为害怕自己的跨性别身份在原籍国被送去扭转治疗 vs. A声请难民因为在原籍国泛滥但非常神奇地平等地影响了所有人的自然灾害）
+
+
 本文还在扩充中，大部分的内容还未呈现，对此不便之处，敬请谅解。
 
 ###
