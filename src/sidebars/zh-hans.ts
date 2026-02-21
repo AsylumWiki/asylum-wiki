@@ -23,7 +23,8 @@ export default [
 			{ text: '有充分理由地恐惧迫害：主观恐惧', link: '/zh-hans/na/well-founded-fear-subjective-fear/' },
 			{ text: '国家保护', link: '/zh-hans/na/state-protection/' },
 			{ text: '国内避难选择', link: '/zh-hans/na/IFA/' },
-			{ text: '司法复核', link: '/zh-hans/na/judicial-review/' }
+			{ text: '司法复核', link: '/zh-hans/na/judicial-review/' },
+			{ text: '受保护人士', link: '/zh-hans/na/protected-person/' }
 		]
 	},
 	{
