@@ -36,6 +36,10 @@ export default [
 		items: [{ text: '澳大利亚', link: '/zh-hans/oc/au/' }]
 	},
 	{
+		text: '亚洲',
+		items: [{ text: '香港', link: '/zh-hans/as/hongkong/' }]
+	},
+	{
 		text: '关于我们',
 		link: '/zh-hans/readme/'
 	},
