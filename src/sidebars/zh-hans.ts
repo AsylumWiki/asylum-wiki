@@ -37,7 +37,10 @@ export default [
 	},
 	{
 		text: '亚洲',
-		items: [{ text: '香港', link: '/zh-hans/as/hongkong/' }]
+		items: [
+			{ text: '香港', link: '/zh-hans/as/hongkong/' },
+			{ text: '台湾', link: '/zh-hans/as/taiwan/' }
+		]
 	},
 	{
 		text: '关于我们',
