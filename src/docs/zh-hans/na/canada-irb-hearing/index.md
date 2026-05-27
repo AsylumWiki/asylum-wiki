@@ -34,14 +34,14 @@ IRB目前有大量的案件积压，一个新声请的平均等待时间往往�
 IRB是一个行政裁审处(administrative tribunal）而并非司法机构（法院）[^5]。法院的司法程序是对抗性的（adversarial），双方律师对薄公堂，盘问/交叉盘问各自/对方的证人，双方律师是各自代表的那一方的推手，而法官只作为中立的裁决者决定提出的事实和法律争议，换句话来说，法官决定的是“哪一方赢了？”。
 
 
-[^5]: https://irb-cisr.gc.ca/en/board/Pages/index.aspx
+[^5]: <https://irb-cisr.gc.ca/en/board/Pages/index.aspx>
 
 与法院不同，IRB的听证会是非对抗式的（non-adversarial) [^6]，在非对抗式的程序中，对事实的核查是中心，决策者推动并决定是什么事情成立什么事情不成立（这个人是不是难民），而非哪一方的观点跟证据赢了；IRB的听证会上一般不会有与声请人一方对立的律师，而对于事实的核查，则主要依赖于决策者的盘问。在非对抗制模式中，律师主要是辅助作用，为了保障听证会是公平的，而非一个案子的幕后推手，或是“主角”。[^7]
 
 但是，如果移民部长（通常通过指定属下的一位移民官）决定干预这个难民声请，那么IRB的听证会就会变成我们刚才所讲的“对抗式的”：
 移民部长（的代表）将代表政府那一方，去争论为什么决策者不应该成为认定该声请人为难民，而声请人（或其代表，一般是律师，或者RCIC）就得争论为什么决策者应该认定声请人是难民。[^6]
 
-[^6]: https://www.irb-cisr.gc.ca/en/designated-representant/Pages/designated-representative-guide.aspx#toc34
+[^6]: <https://www.irb-cisr.gc.ca/en/designated-representant/Pages/designated-representative-guide.aspx#toc34>
 
 [^7]: 关于对抗制（又称对垒制）与非对抗制（又称纠问制的区别），请参考[法律101｜甚麼是「法官加入戰團」？ - 法庭線 The Witness](https://thewitnesshk.com/%e6%b3%95%e5%be%8b101-%e7%94%9a%e9%ba%bc%e6%98%af%e6%b3%95%e5%ae%98%e5%8a%a0%e5%85%a5%e6%88%b0%e5%9c%98/#lwptoc) 关于对垒制的介绍。读者可以忽略“法官加入战团”的部分
 
@@ -86,37 +86,36 @@ IRB是一个行政裁审处(administrative tribunal）而并非司法机构（�
 
 8：一般来讲，审裁官会在步骤7之后以口头的方式做出决定，除非审裁官觉得现场下口头的决定不可行（比如说有什么复杂的法律问题需要查询以及思考之类的）。无论如何，最终也会有一份书面的决定下达。
 
-[^8]: https://www.irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir07.aspx
+[^8]: <https://www.irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir07.aspx>
 
 ### 积压的案件
 
 IRB目前有大量的案件积压，这些案件都是在等待审理 和/或 听证会的：
 
 > IRB积压的案件数目（截止2025年9月）
-> # 295819 宗[^9]
+> <br><br>
+> **<font size="6">295819 宗</font>** [^9]
 
-[^9]: https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2025.aspx
-
-
+[^9]: <https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2025.aspx>
 
 ### 等待时间
 
 IRB的统计数据显示，2023年4月提出的新声请的平均等待时间为
 
 > 2023年4月提出的新声请的平均等待时间
-> # 22 个月[^10]
+> <br><br>
+> **<font size="6">22 个月</font>** [^10]
 
-[^10]: https://www.irb-cisr.gc.ca/en/reports-publications/planning-performance/Pages/departmental-results-report-2425-r.aspx
+[^10]: <https://www.irb-cisr.gc.ca/en/reports-publications/planning-performance/Pages/departmental-results-report-2425-r.aspx>
 
 而在2023年12月时则有
 
 > 2023年12月时IRB积压的案件
-> # 156032 宗[^11]
+> <br><br>
+> **<font size="6">156032 宗</font>** [^11]
 
 
-[^11]: https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2023.aspx
-
-
+[^11]: <https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2023.aspx>
 
 ## IRB是怎么给积压的案件排期的？
 
@@ -136,7 +135,7 @@ IRB的统计数据显示，2023年4月提出的新声请的平均等待时间为
 
 这里列出的能够优先审理的因素并不完全，同时，IRB也有酌情权决定一个/一种特定的声请应不应该优先审理。[^12]
 
-[^12]: https://www.irb-cisr.gc.ca/en/refugee-claims/Pages/rpd-scheduling-priorities.aspx#toc1
+[^12]: <https://www.irb-cisr.gc.ca/en/refugee-claims/Pages/rpd-scheduling-priorities.aspx#toc1>
 
 ## 简易程序：”短听证会“ 和/或 ”文件审查“
 
@@ -146,7 +145,7 @@ IRB的统计数据显示，2023年4月提出的新声请的平均等待时间为
 
 而“文件审查程序”则不仅排期优先并且完全没有听证会。尽管说IRPA规定声请必须要有听证会，但是在同一条法律下也授权IRB在没有听证会的情况下认可一个声请人为难民 [^4]。在这个程序下，IRB可以无需听证会，仅凭一个人的声请内容和提交上去的证据就接受一个人是难民，但是不能拒绝一个人。所以，对于“文件审查程序“而言，只可能有两种结果，一个是IRB接受声请人为难民，而另一个则是IRB把该声请发配回正常排听证会的流程。
 
-[^13]: https://www.irb-cisr.gc.ca/en/information-sheets/Pages/less-complex-claims.aspx
+[^13]: <https://www.irb-cisr.gc.ca/en/information-sheets/Pages/less-complex-claims.aspx>
 
 > [!NOTE]
 > 
@@ -180,7 +179,7 @@ IRB的统计数据显示，2023年4月提出的新声请的平均等待时间为
   
   (此列表并不完全，那些最终通过简易程序审理的声请也并非得满足以上全部)
 
-[^14]:https://www.irb-cisr.gc.ca/en/legal-policy/procedures/Pages/countries-claim-types-criteria.aspx
+[^14]:<https://www.irb-cisr.gc.ca/en/legal-policy/procedures/Pages/countries-claim-types-criteria.aspx>
 
 但是对于有以下任一情况的，RPD就不会循文件审查程序审理一个难民声请[^14]：
 
@@ -212,7 +211,7 @@ IRB的统计数据显示，2023年4月提出的新声请的平均等待时间为
 
 了解更多：
 
-https://www.irb-cisr.gc.ca/en/news/2022/Pages/volunteer-refugee-claim-short-notice.aspx
+<https://www.irb-cisr.gc.ca/en/news/2022/Pages/volunteer-refugee-claim-short-notice.aspx>
 
 
 

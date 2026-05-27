@@ -57,7 +57,7 @@ Most countries require bank statements and proof of deposits. Students can provi
 | South Korea            | About 7 business days            | Bachelor's degree/Zhima Credit Score |
 | Southeast Asia         | About 3-5 business days          |
 
-[^1]: The waiting time for Canadian tourist visa applications varies greatly over time, so no meaningful reference information can be provided here.
+> The waiting time for Canadian tourist visa applications varies greatly over time, so no meaningful reference information can be provided here.
 
 ## Study Visa Application
 

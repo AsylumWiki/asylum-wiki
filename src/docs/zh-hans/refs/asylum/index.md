@@ -64,6 +64,3 @@ hero:
 如果被移民局驳回，则会提交至法院，败诉后可再上诉。此过程中理论上可以合法工作生活。美国的工卡会在申请后半年后发放，在此期间无法从事需要工卡的工作。
 
 同理，许多其它国家也有类似的庇护政策，如加拿大、欧洲许多国家等。
-
-[^1]: [Fact Sheet: DHS Continues to Strengthen Border Security, Reduce Irregular Migration, and Mobilize International Partnerships - US Homeland Security](https://www.dhs.gov/news/2024/06/04/fact-sheet-dhs-continues-strengthen-border-security-reduce-irregular-migration-and)
-[^2]: [“We Couldn’t Wait” Digital Metering at the US-Mexico Border - Human Rights Watch](https://www.hrw.org/report/2024/05/01/we-couldnt-wait/digital-metering-us-mexico-border)

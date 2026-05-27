@@ -53,11 +53,7 @@ flowchart TB
     n29["PRRA决定"] == 接受 ==> n17
     n29 == 拒绝 ==> n24
     n24 == 不提，并且 ==> n30["复核/不复核的东西是PRRA"]
-<<<<<<< HEAD
-    n30 --> n32(["遣返"])
-=======
     n30 ==> n32(["遣返"])
->>>>>>> ca53a9db48acc9663aec5594b14c5d7ed6a3a573
     n10 == 被驳回，且 ==> n30
     n33["联邦法院决定司法复核准许申请"] -- 接受 --> n10
     n33 == 驳回，且 ==> n30
@@ -68,12 +64,7 @@ flowchart TB
     n12 -- 拒绝 --> n13
     n15 -. 能，但是在此期间 .-> n35["审裁官觉得文件审查程序不合适"]
     n35 -.-> n16
-<<<<<<< HEAD
-    n11 -- RAD 重审 --> n26
-=======
     n11 -- RAD重审 --> n25
->>>>>>> ca53a9db48acc9663aec5594b14c5d7ed6a3a573
-
     B@{ shape: diam}
     n2@{ shape: diam}
     n3@{ shape: rect}
@@ -152,10 +143,7 @@ flowchart TB
     linkStyle 38 stroke:#00C853,fill:none
     linkStyle 39 stroke:#D50000,fill:none
     linkStyle 40 stroke:#D50000,fill:none
-<<<<<<< HEAD
-=======
     linkStyle 41 stroke:#D50000,fill:none
->>>>>>> ca53a9db48acc9663aec5594b14c5d7ed6a3a573
     linkStyle 42 stroke:#D50000,fill:none
     linkStyle 43 stroke:#00C853,fill:none
     linkStyle 44 stroke:#D50000,fill:none
@@ -163,9 +151,4 @@ flowchart TB
     linkStyle 49 stroke:#D50000,fill:none
     linkStyle 50 stroke:#616161,fill:none
     linkStyle 51 stroke:#616161,fill:none
-
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> ca53a9db48acc9663aec5594b14c5d7ed6a3a573

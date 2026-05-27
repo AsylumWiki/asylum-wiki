@@ -28,6 +28,3 @@ For more information on U.S. asylum policies, refer to the following document, [
 If rejected by the immigration office, the case will be submitted to the court, and if you lose, you can appeal. Theoretically, you can live and work legally during this process. The U.S. work permit will be issued six months after the application, during which time you cannot engage in work that requires a work permit.
 
 Similarly, many other countries have similar asylum policies, such as Canada, many European countries, etc.
-
-[^1]: [Fact Sheet: DHS Continues to Strengthen Border Security, Reduce Irregular Migration, and Mobilize International Partnerships - US Homeland Security](https://www.dhs.gov/news/2024/06/04/fact-sheet-dhs-continues-strengthen-border-security-reduce-irregular-migration-and)
-[^2]: [“We Couldn’t Wait” Digital Metering at the US-Mexico Border - Human Rights Watch](https://www.hrw.org/report/2024/05/01/we-couldnt-wait/digital-metering-us-mexico-border)

@@ -38,7 +38,7 @@ To apply for asylum, you need to meet the following conditions:
 
 Please note: If you need to transit through a European country, the Netherlands or Sweden is most recommended. Avoid transiting through countries you might not want to go to (Dublin Regulation). If you have a same-sex or opposite-sex partner (must be genuine, cohabiting for at least one year), you can apply for asylum together. Transgender people in Canada should pay attention to this matter and provide help to applicants, but do not persuade others to make decisions. Please share this message to let more people know about this information.
 
-From: https://twitter.com/HANLIANYI520/status/1645414478874562560
+From: <https://twitter.com/HANLIANYI520/status/1645414478874562560>
 
 ## US
 

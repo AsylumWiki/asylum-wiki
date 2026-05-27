@@ -21,6 +21,7 @@
   },
   "type": "module",
   "scripts": {
+    "lint": "eslint .",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
@@ -28,12 +29,12 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@eslint/json": "^1.2.0",
-    "@eslint/markdown": "^8.0.1",
-    "eslint": "^10.3.0",
+    "@eslint/markdown": "^8.0.2",
+    "eslint": "^10.4.0",
     "eslint-plugin-markdown-preferences": "^0.41.1",
     "globals": "^17.6.0",
     "jiti": "^2.7.0",
-    "typescript-eslint": "^8.59.2",
+    "typescript-eslint": "^8.60.0",
     "vitepress": "^2.0.0-alpha.17"
   },
   "dependencies": {

@@ -9,7 +9,7 @@ hero:
 
 
 # 有充分根据地恐惧迫害：主观恐惧[^1]
-[^1]: https://www.irb-cisr.gc.ca/en/legal-policy/legal-concepts/Pages/RefDef05.aspx
+[^1]: <https://www.irb-cisr.gc.ca/en/legal-policy/legal-concepts/Pages/RefDef05.aspx>
 
 主观恐惧就是指声请人的主观的思想里边究竟有没有对迫害的恐惧。
 在1999年的*Kamana*一案中，联邦法院认为单单是“没有证据展现主观恐惧”这一件事就足矣使得CRDD（IRB的前身）能够拒绝一宗难民声请，因为对于难民的定义中的两个部分（也就是主观恐惧和恐惧的客观依据）都得要有。

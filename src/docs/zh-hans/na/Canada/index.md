@@ -36,7 +36,7 @@ IRPA第96条中对于公约难民的定义：
 
 <summary>IRPA第96条对于公约难民的定义</summary>
 
-# Convention refugee
+## Convention refugee
 
 > 96 A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
 > 
@@ -50,21 +50,21 @@ IRPA第96条中对于公约难民的定义：
 
 <summary>IRPA第97条对于受保护人士的定义</summary>
 
-# Person in need of protection
+## Person in need of protection
 
 > 97 (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
 > 
->   (a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
-> 
->   (b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
-> 
->      (i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
->     
->      (ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
->     
->      (iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
-> 
-> (iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
+> > (a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
+> >
+> > (b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
+> >
+> > > (i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
+> > >    
+> > > (ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
+> > >    
+> > > (iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
+> > >
+> > > (iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
 
 </details>
 
@@ -170,8 +170,8 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 <summary> 判词节选（英文）</summary>
 
->  The meaning assigned to "particular social group" in the Act should take into account the general underlying themes of the defence of human rights and anti-discrimination that form the basis for the international refugee protection initiative.  
-> The tests proposed in Mayers, supra, Cheung, supra, and Matter of Acosta, supra, provide a good working rule to achieve this result.  
+>  The meaning assigned to "particular social group" in the Act should take into account the general underlying themes of the defence of human rights and anti-discrimination that form the basis for the international refugee protection initiative.\
+> The tests proposed in Mayers, supra, Cheung, supra, and Matter of Acosta, supra, provide a good working rule to achieve this result.\
 > They identify three possible categories:
 > 
 > (1) groups defined by an innate or unchangeable characteristic;
@@ -180,7 +180,7 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 > 
 > (3) groups associated by a former voluntary status, unalterable due to its historical permanence.
 > 
-> **The first category would embrace individuals fearing persecution on such bases as gender**, linguistic background **and sexual orientation**, while the second would encompass, for example, human rights activists.  
+> **The first category would embrace individuals fearing persecution on such bases as gender**, linguistic background **and sexual orientation**, while the second would encompass, for example, human rights activists.\
 > The third branch is included more because of historical intentions, although it is also relevant to the anti-discrimination influences, in that one's past is an immutable part of the person.
 > 
 > - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) (emphasis added)

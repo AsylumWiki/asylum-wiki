@@ -7,13 +7,13 @@ hero:
   # tagline: "任何人都有寻求安全的权利"
 ---
 
-# 有充分根据地恐惧迫害(Well-founded fear of persecution)[^1]
+# 有充分根据地恐惧迫害[Well-founded fear of persecution][^1]
 
 一个人要是符合《难民公约》中对难民的定义的话，那么ta必须得要**有充分根据地恐惧迫害**。也就是说，寻求庇护者得要有充分根据地恐惧迫害，ta的难民声请才有可能被认可。
 
 加拿大的最高法院在 *Ward*一案中认为，“充分根据”包含**两个部分**：一是声请人得要**主观上**恐惧迫害；**而且**，声请人的主观上的恐惧得要有客观依据（i.e. **客观上**站得住脚）
 
-[^1]: https://www.irb-cisr.gc.ca/en/legal-policy/legal-concepts/Pages/RefDef05.aspx
+[^1]: <https://www.irb-cisr.gc.ca/en/legal-policy/legal-concepts/Pages/RefDef05.aspx>
 
 **主观恐惧**
 

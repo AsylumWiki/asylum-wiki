@@ -7,6 +7,13 @@ import markdownPreferences from 'eslint-plugin-markdown-preferences'
 import { defineConfig } from 'eslint/config'
 
 export default defineConfig(
+  {
+    ignores: [
+      'node_modules/',
+      '.vitepress/dist/',
+      '.vitepress/cache/'
+    ]
+  },
 	{
 		files: ['*.{js,mjs,cjs}'],
 		...js.configs.recommended

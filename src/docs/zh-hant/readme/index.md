@@ -1,11 +1,11 @@
 # 你好，這裡是 **AsylumWiki**！
 
 <p style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/github/stars/AsylumWiki/asylum-wiki?style=flat-square&label=Stars">
-  <img src="https://img.shields.io/github/watchers/AsylumWiki/asylum-wiki?style=flat-square&label=Watchers">
-  <img src="https://img.shields.io/github/created-at/AsylumWiki/asylum-wiki?style=flat-square&label=CreatedAt">
-  <img src="https://img.shields.io/github/last-commit/AsylumWiki/asylum-wiki?display_timestamp=author&style=flat-square&label=Last%20Commit">
-  <img src="https://img.shields.io/badge/License-CC_BY%E2%80%93SA_4.0-green?style=flat-square">
+  <img src="https://img.shields.io/github/stars/AsylumWiki/asylum-wiki?style=flat-square&label=Stars" alt="">
+  <img src="https://img.shields.io/github/watchers/AsylumWiki/asylum-wiki?style=flat-square&label=Watchers" alt="">
+  <img src="https://img.shields.io/github/created-at/AsylumWiki/asylum-wiki?style=flat-square&label=CreatedAt" alt="">
+  <img src="https://img.shields.io/github/last-commit/AsylumWiki/asylum-wiki?display_timestamp=author&style=flat-square&label=Last%20Commit" alt="">
+  <img src="https://img.shields.io/badge/License-CC_BY%E2%80%93SA_4.0-green?style=flat-square" alt="">
 </p>
 
 ## 簡介
@@ -41,10 +41,10 @@ AsylumWiki 是一個免費、開放且包容的信息聚合平台。🏳️‍�
 ## 聯繫我們
 
 <p style="display: flex; gap: 10px;">
-  <a href="https://x.com/AsylumWiki"><img src="https://img.shields.io/badge/Twitter-%40AsylumWiki-blue?style=flat-square"></a>
-  <a href="https://t.me/AsylumWiki"><img src="https://img.shields.io/badge/Telegram-%40AsylumWiki-blue?style=flat-square"></a>
-  <a href="https://github.com/AsylumWiki/asylum-wiki/issues"><img src="https://img.shields.io/badge/GitHub-AsylumWiki%2Fasylum%E2%80%93wiki-blue?style=flat-square"></a>
-  <a href="mailto:info@asylum.wiki"><img src="https://img.shields.io/badge/Email-info%40asylum.wiki-blue?style=flat-square"></a>
+  <a href="https://x.com/AsylumWiki"><img src="https://img.shields.io/badge/Twitter-%40AsylumWiki-blue?style=flat-square" alt=""></a>
+  <a href="https://t.me/AsylumWiki"><img src="https://img.shields.io/badge/Telegram-%40AsylumWiki-blue?style=flat-square" alt=""></a>
+  <a href="https://github.com/AsylumWiki/asylum-wiki/issues"><img src="https://img.shields.io/badge/GitHub-AsylumWiki%2Fasylum%E2%80%93wiki-blue?style=flat-square" alt=""></a>
+  <a href="mailto:info@asylum.wiki"><img src="https://img.shields.io/badge/Email-info%40asylum.wiki-blue?style=flat-square" alt=""></a>
 </p>
 
 ## 版權聲明
