@@ -81,7 +81,7 @@ hero:
 
 ## 新来者（Newcomer）
 
-任何一个在最近才入境一个国家的人，无论ta有没有合法签证以及ta是以什么样的方式进入的 
+任何一个在最近才入境一个国家的人，无论ta有没有合法签证以及ta是以什么样的方式进入的
 
 ## 难民声请（Refugee Claim）或 庇护声请（Asylum Claim)（两者为同义词）
 
@@ -97,6 +97,6 @@ hero:
 
 本网站中除非特别注明，否则所有的“难民申请”“庇护申请”实际上指的是“声请”。不便之处敬请原谅
 
-[^1]: [Guideline 9: Proceedings Before the IRB Involving Sexual Orientation, Gender Identity and Expression, and Sex Characteristics](https://www.irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx) 
+[^1]: [Guideline 9: Proceedings Before the IRB Involving Sexual Orientation, Gender Identity and Expression, and Sex Characteristics](https://www.irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx)
 
 [^2]: Decker, J. S. (2014). The invisible orientation : an introduction to asexuality. Carrel Books.

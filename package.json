@@ -30,14 +30,12 @@
     "@eslint/js": "^10.0.1",
     "@eslint/json": "^1.2.0",
     "@eslint/markdown": "^8.0.2",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "@types/markdown-it-footnote": "^3.0.4",
     "eslint": "^10.4.0",
-    "eslint-plugin-markdown-preferences": "^0.41.1",
-    "globals": "^17.6.0",
     "jiti": "^2.7.0",
     "typescript-eslint": "^8.60.0",
-    "vitepress": "^2.0.0-alpha.17"
-  },
-  "dependencies": {
+    "vitepress": "^2.0.0-alpha.17",
     "markdown-it-footnote": "^4.0.0"
   }
 }

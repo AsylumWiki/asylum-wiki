@@ -13,17 +13,17 @@ hero:
 
 > [!CAUTION]
 > **《加拿大–美国安全第三国协议》（Canada–United States Safe Third Country Agreement，简称STCA）现正生效**
-> 
+>
 > STCA规定难民申请人必须在到达的第一个安全国家申请庇护，除非该申请人符合规例中的例外情形，也就是说：
 > 寻求庇护者如果**先**入境美国**随后由陆路边境/铁路口岸/水道的任何一个地方**入境加拿大，那么该寻求庇护者**必须**要在美国提出申请，反之亦然，除非该人：
-> 
+>
 > * 在加拿大有是加拿大公民/永久居民/临时居民/难民申请人（且那个申请人的申请并未被拒绝/撤回/废弃/被IRCC裁定为不合资格转介至IRB）的亲属；
 > * 在18岁以下**且**未有亲属陪同入境，**且**在加拿大/美国没有亲属；
 > * 持有有效的加拿大签发的签证，或能够免签入境加拿大**且**入境美国需要签证；**或者**
 > * 在美国被指控或定罪了一个在美国可获死刑的罪名。
-> 
+>
 > 如果一个寻求庇护者的申请并没有在ta到达的第一个安全国(i.e. 美国/加拿大）提出，那么ta的庇护声请将会被IRCC裁定为不合资格转介至IRB，而ta将有可能被遣返至加拿大/美国
-> 
+>
 > [了解更多关于STCA的内容（只有英文版）](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/agreements/safe-third-country-agreement.html#toc0)
 
 加拿大是《难民公约》的缔约国，于此同时加拿大也是《禁止酷刑公约》的缔约国；两条公约的精神和对于难民的定义被编纂进了《移民与难民保护法》（Immigration and Refugee Protection Act，以下简称IRPA）中，这部法律，和加拿大的普通法判例一起，构建了如今加拿大的难民认定系统。
@@ -39,9 +39,9 @@ IRPA第96条中对于公约难民的定义：
 ## Convention refugee
 
 > 96 A Convention refugee is a person who, by reason of a well-founded fear of persecution for reasons of race, religion, nationality, membership in a particular social group or political opinion,
-> 
+>
 > (a) is outside each of their countries of nationality and is unable or, by reason of that fear, unwilling to avail themself of the protection of each of those countries; or
-> 
+>
 > (b) not having a country of nationality, is outside the country of their former habitual residence and is unable or, by reason of that fear, unwilling to return to that country.
 
 </details>
@@ -53,15 +53,15 @@ IRPA第96条中对于公约难民的定义：
 ## Person in need of protection
 
 > 97 (1) A person in need of protection is a person in Canada whose removal to their country or countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, would subject them personally
-> 
+>
 > > (a) to a danger, believed on substantial grounds to exist, of torture within the meaning of Article 1 of the Convention Against Torture; or
 > >
 > > (b) to a risk to their life or to a risk of cruel and unusual treatment or punishment if
 > >
 > > > (i) the person is unable or, because of that risk, unwilling to avail themself of the protection of that country,
-> > >    
+> > >
 > > > (ii) the risk would be faced by the person in every part of that country and is not faced generally by other individuals in or from that country,
-> > >    
+> > >
 > > > (iii) the risk is not inherent or incidental to lawful sanctions, unless imposed in disregard of accepted international standards, and
 > > >
 > > > (iv) the risk is not caused by the inability of that country to provide adequate health or medical care.
@@ -107,12 +107,12 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 > [!CAUTION]
 > Bill C-12 已于2026年3月26日得到了御准并在当天正式成为了法律，该法案其中一部分修改了IRPA第101条的方式新增两条难民声请不合资格的情形（上文已用粗体标出）
-> 
+>
 > 这两条新增的不合资格的情形会适用于（追溯到）Bill C-2一读当天（2025年5月26日）或之后提交的难民声请。
-> 
+>
 > 也就是说：如果你现在想提出一宗难民声请，但是你又是2020年6月24日或之后第一次入境加拿大且距离你那第一次入境加拿大已经满一年了，那么，你的申请可能会被IRCC/CBSA认定为不合资格。
-> 
-> [了解更多关于Bill C-12（只有英文及法文版）](https://www.parl.ca/legisinfo/en/bill/45-1/c-12) 
+>
+> [了解更多关于Bill C-12（只有英文及法文版）](https://www.parl.ca/legisinfo/en/bill/45-1/c-12)
 
 如果说ta的声请最后被接受ta被认可为难民，那之后ta就能留在加拿大且ta有机会申请成为永久居民，乃至加入加拿大国籍。直至政府作出最终决定之前，难民申请人可以工作以及在学校就读，并有机会享有联邦临时医疗保險以及可以申请省的社会救助。
 
@@ -162,7 +162,7 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 看到了上面对于难民的定义，我们可能会产生一个疑问：
 一个认同是LGBTQIA+同时又是寻求庇护者的人能不能够因为自己LGBTQIA+的身份符合难民的定义？
 
-加拿大最高法院早在1993年的  *Canada (Attorney General) v. Ward* , [1993] 2 S.C.R. 689一案中明确了《难民公约》中的“特定社会团体” 
+加拿大最高法院早在1993年的  *Canada (Attorney General) v. Ward* , [1993] 2 S.C.R. 689一案中明确了《难民公约》中的“特定社会团体”
 **包含** 性少数，并且该案提出对于特定社会团体的定义也使得该词能够囊括性取向，性别认同，性别表达以及性特征，
 从而使得LGBTQIA+的声请人能基于自己是LGBTQIA+的身份声请难民：
 
@@ -173,16 +173,16 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 >  The meaning assigned to "particular social group" in the Act should take into account the general underlying themes of the defence of human rights and anti-discrimination that form the basis for the international refugee protection initiative.\
 > The tests proposed in Mayers, supra, Cheung, supra, and Matter of Acosta, supra, provide a good working rule to achieve this result.\
 > They identify three possible categories:
-> 
+>
 > (1) groups defined by an innate or unchangeable characteristic;
-> 
+>
 > (2) groups whose members voluntarily associate for reasons so fundamental to their human dignity that they should not be forced to forsake the association; and
-> 
+>
 > (3) groups associated by a former voluntary status, unalterable due to its historical permanence.
-> 
+>
 > **The first category would embrace individuals fearing persecution on such bases as gender**, linguistic background **and sexual orientation**, while the second would encompass, for example, human rights activists.\
 > The third branch is included more because of historical intentions, although it is also relevant to the anti-discrimination influences, in that one's past is an immutable part of the person.
-> 
+>
 > - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) (emphasis added)
 
 </details>
@@ -191,17 +191,17 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 > 法案中规定的“特定社会团体”应该考量这一点：正是难民保护背后所反映的对人权的保护以及反歧视的理念构成了难民保护的基础。
 > 在 Mayers一案, Cheung一案 以及Acosta一案中所提出的对于特定社会团体的判断标准能够很好地达到刚才提到的这两点。
-> 
+>
 > 这个判断标准提出一个“特定社会团体”大致能被分为三大类：
-> 
+>
 > （1）被一个固有的或不可变的特征所定义的团体
-> 
+>
 > （2）团体成员自愿加入该团体所形成的团体，但团体形成的原因之于人的尊严是如此的重要，以至于ta们不能够被要求放弃在该团体的身份 以及
-> 
+>
 > （3）团体成员先前自愿加入所形成的团体，但因为过去的事情使得就算是团体成员退了这个团体也没办法免受因为该团体身份所导致的迫害
-> 
+>
 > 这个判断标准提出的第一个大类将能够包含害怕因为**性别**，会说的语言和/或**性取向**害怕被迫害的人，同时第二个大类将囊括像人权活动家一类的人。第三个大类所囊括进来的人尽管说更多的是因为历史原因被囊括进来的，但是反歧视的理念也与之相关：因为一个人改变不了ta的过去。
-> 
+>
 > - [Canada (Attorney General) v. Ward, [1993] 2 S.C.R. 689](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/1023/index.do) （重点加粗表示）
 
 但是，能不能作为声请理由跟声请充不充分是两码事，能作为声请理由**并不代表**仅仅是拥有LGBTQIA+的身份这一件事就足以使得一个寻求庇护者符合难民的定义，
@@ -223,7 +223,7 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 ## 在等待难民决定期间在加拿大学习
 
-如果说声请人没有满18岁，那么ta无需学习许可就可以在学前班，小学，初中以及高中学习。如果说声请人在18岁或以上，或是声请人准备前往大专院校学习，那么声请人则需要向IRCC申请学习许可才能在加拿大学习。[^6] 
+如果说声请人没有满18岁，那么ta无需学习许可就可以在学前班，小学，初中以及高中学习。如果说声请人在18岁或以上，或是声请人准备前往大专院校学习，那么声请人则需要向IRCC申请学习许可才能在加拿大学习。[^6]
 
 **如果**说声请人在声请难民的时候**已经持有**加拿大的学习许可了（比如说凭学签入境加拿大后提出了难民声请），那么在提出声请之后ta们的**学习许可将继续有效**，直至学签到期，或是ta们的遣返令被执行。[^7]
 
@@ -238,11 +238,11 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 [Sanctuary Scholars’ Bridging Program - York University](https://www.yorku.ca/laps/bridging-programs/sanctuary-scholars/)
 
 > [!WARNING]
-> 
+>
 > 一个还没来到加拿大的人**不可能**向加拿大当局寻求**庇护**。因此，一个还在原籍国/原籍国之外但没在加拿大的寻求庇护者不能够通过申请这两个项目从而使自己能够入境加拿大。
 
-> [!NOTE] 
-> 
+> [!NOTE]
+>
 > 编者按：我们觉得加拿大各省这么干有其合理性，但我们同时也觉得这并非正义。
 
 
@@ -251,7 +251,7 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 本文还在扩充中，大部分的内容还未呈现，对此不便之处，敬请谅解。
 
-### 
+###
 
 ### 了解更多
 
@@ -282,4 +282,4 @@ IRCC/CBSA在这个阶段只会决定一宗难民声请有没有IRPA第101条规�
 
 [^7]: [Processing in-Canada refugee claims: Special claimant types - Canada.ca](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/refugee-protection/canada/processing-refugee-claims-special-claimant-types.html)
 
-[^8]: Villegas, Paloma & Aberman, Tanya. (2019). A Double Punishment: The Context of Postsecondary Access for Racialized Precarious Status Migrant Students in Toronto, Canada. Refuge. 35. 72-82. 10.7202/1060676ar. 
+[^8]: Villegas, Paloma & Aberman, Tanya. (2019). A Double Punishment: The Context of Postsecondary Access for Racialized Precarious Status Migrant Students in Toronto, Canada. Refuge. 35. 72-82. 10.7202/1060676ar.
