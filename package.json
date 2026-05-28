@@ -21,7 +21,7 @@
   },
   "type": "module",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint . --fix",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
@@ -33,9 +33,11 @@
     "@stylistic/eslint-plugin": "^5.10.0",
     "@types/markdown-it-footnote": "^3.0.4",
     "eslint": "^10.4.0",
+    "eslint-plugin-vue": "^10.9.1",
     "jiti": "^2.7.0",
+    "markdown-it-footnote": "^4.0.0",
     "typescript-eslint": "^8.60.0",
     "vitepress": "^2.0.0-alpha.17",
-    "markdown-it-footnote": "^4.0.0"
+    "vue-eslint-parser": "^10.4.0"
   }
 }

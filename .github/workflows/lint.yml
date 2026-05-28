@@ -23,7 +23,7 @@ jobs:
         run: npm ci
 
       - name: Run ESLint
-        run: npm run lint -- --fix
+        run: npm run lint
 
       - name: Check for changes
         id: git-check

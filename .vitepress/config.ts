@@ -8,9 +8,13 @@ import footnote from 'markdown-it-footnote'
 // https://vitepress.dev/reference/site-config
 export default () => {
   globalThis.localStorage ??= {
-    getItem: () => { /* empty */ },
-    setItem: () => { /* empty */ }
+    getItem: () => {
+    },
+    setItem: () => {
+    }
   } as unknown as Storage
+
+  globalThis.navigator ??= { languages: [] } as unknown as Navigator
 
   globalThis.navigator ??= { languages: [] } as unknown as Navigator
 
@@ -58,6 +62,10 @@ export default () => {
       'zh-hans': zhHansConfig,
       'zh-hant': zhHantConfig
     },
-    markdown: { config: (md) => { md.use(footnote) } }
+    markdown: {
+      config: (md) => {
+        md.use(footnote)
+      }
+    }
   })
 }

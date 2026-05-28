@@ -27,10 +27,7 @@ config.rules = {
   ],
   '@stylistic/curly-newline': [
     'error',
-    {
-      multiline: true,
-      minElements: 2
-    }
+    'always'
   ],
   '@stylistic/function-call-argument-newline': [
     'error',
