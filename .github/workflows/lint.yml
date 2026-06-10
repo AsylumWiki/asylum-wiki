@@ -1,39 +1,33 @@
-name: Lint Code
+name: Code Quality Check
 
-on: [push, pull_request]
+on: 
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   eslint:
+    name: ESLint
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout code
+      - name: Checkout Latest Code
         uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v6
         with:
           node-version: '24'
           cache: 'npm'
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm ci
 
-      - name: Run ESLint
-        run: npm run lint
+      - name: Run ESLint Auto Fix
+        run: npm run lint:fix
 
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and Push changes
-        if: steps.git-check.outputs.changed == 'true'
+      - name: Commit and Push Phanges
         uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "style: auto fix lint errors by github-actions"
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com

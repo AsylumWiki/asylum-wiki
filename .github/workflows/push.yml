@@ -1,0 +1,20 @@
+name: Push Workflow
+
+on: 
+  push:
+
+jobs:
+  lint:
+    name: Code Quality Check
+    permissions:
+      contents: write
+    uses: ./.github/workflows/lint.yml
+
+  deploy:
+    name: Deployment
+    needs: lint
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

@@ -1,0 +1,11 @@
+name: Pull Request Workflow
+
+on: 
+  pull_request:
+
+jobs:
+  lint:
+    name: Code Quality Check
+    permissions:
+      contents: write
+    uses: ./.github/workflows/lint.yml
