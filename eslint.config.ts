@@ -39,11 +39,9 @@ export default defineConfig(
   {
     files: ['**/*.vue'],
     languageOptions: {
-      parser: vueParser,
       parserOptions: {
         parser: tseslint.parser,
-        extraFileExtensions: ['.vue'],
-        projectService: true
+        extraFileExtensions: ['.vue']
       }
     }
   },
