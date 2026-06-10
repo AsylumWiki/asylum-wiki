@@ -16,6 +16,8 @@ export default () => {
 
   globalThis.navigator ??= { languages: [] } as unknown as Navigator
 
+  globalThis.navigator ??= { languages: [] } as unknown as Navigator
+
   return defineConfig({
     lang: 'en',
     title: 'AsylumWiki',

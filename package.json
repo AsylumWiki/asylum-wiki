@@ -31,6 +31,9 @@
   "lint-staged": {
     "*.{js,ts,vue}": "eslint --fix"
   },
+  "pre-commit": [
+    "lint"
+  ],
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@eslint/json": "^2.0.0",

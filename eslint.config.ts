@@ -31,6 +31,23 @@ export default defineConfig(
     extends: [vue.configs['flat/recommended-error']]
   },
 
+  // Vue
+  vue.configs['flat/recommended-error'].flatMap(e => ({
+    ...e,
+    files: ['**/*.vue']
+  })),
+  {
+    files: ['**/*.vue'],
+    languageOptions: {
+      parser: vueParser,
+      parserOptions: {
+        parser: tseslint.parser,
+        extraFileExtensions: ['.vue'],
+        projectService: true
+      }
+    }
+  },
+
   // Markdown
   {
     files: ['**/*.md'],
