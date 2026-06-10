@@ -135,3 +135,6 @@ dist
 
 # temp sys files
 **/.DS_Store
+
+# VS Code
+.vscode/
