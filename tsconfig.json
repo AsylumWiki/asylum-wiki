@@ -18,8 +18,8 @@
     ".vitepress/**/*.vue"
   ],
   "exclude": [
-    "node_modules",
-    ".vitepress/dist",
-    ".vitepress/cache"
+    "node_modules/",
+    ".vitepress/dist/",
+    ".vitepress/cache/"
   ]
 }

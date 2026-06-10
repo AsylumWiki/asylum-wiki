@@ -1,5 +1,4 @@
 import stylistic from '@stylistic/eslint-plugin'
-import { ConfigWithExtends } from 'typescript-eslint'
 
 const config = stylistic.configs.customize({
   indent: 2,
@@ -160,4 +159,4 @@ config.rules = {
   '@stylistic/wrap-regex': 'error'
 }
 
-export default config satisfies ConfigWithExtends
+export default config

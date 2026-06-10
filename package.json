@@ -12,8 +12,8 @@
   },
   "license": "CC-BY-SA-4.0",
   "author": {
-    "name": "Yumi Chow",
-    "email": "info@yumichow.com"
+    "name": "AsylumWiki",
+    "email": "info@asylumwiki.com"
   },
   "repository": {
     "type": "git",
@@ -21,27 +21,29 @@
   },
   "type": "module",
   "scripts": {
-    "lint": "eslint . --fix",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "prepare": "husky",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
   },
-  "pre-commit": [
-    "lint"
-  ],
+  "lint-staged": {
+    "*.{js,ts,vue}": "eslint --fix"
+  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@eslint/json": "^1.2.0",
+    "@eslint/json": "^2.0.0",
     "@eslint/markdown": "^8.0.2",
     "@stylistic/eslint-plugin": "^5.10.0",
     "@types/markdown-it-footnote": "^3.0.4",
-    "eslint": "^10.4.0",
-    "eslint-plugin-vue": "^10.9.1",
+    "eslint": "^10.4.1",
+    "eslint-plugin-vue": "^10.9.2",
+    "husky": "^9.1.7",
     "jiti": "^2.7.0",
+    "lint-staged": "^17.0.7",
     "markdown-it-footnote": "^4.0.0",
-    "pre-commit": "^2.0.0",
-    "typescript-eslint": "^8.60.0",
-    "vitepress": "^2.0.0-alpha.17",
-    "vue-eslint-parser": "^10.4.0"
+    "typescript-eslint": "^8.61.0",
+    "vitepress": "^2.0.0-alpha.17"
   }
 }
