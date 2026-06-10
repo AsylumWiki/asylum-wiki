@@ -40,7 +40,7 @@ export default defineConfig(
     files: ['**/*.vue'],
     languageOptions: {
       parserOptions: {
-        parser: tseslint.parser,
+        parser: typescript.parser,
         extraFileExtensions: ['.vue']
       }
     }
