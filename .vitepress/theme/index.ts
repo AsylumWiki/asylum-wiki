@@ -1,10 +1,4 @@
-// docs/.vitepress/theme/index.ts
-import DefaultTheme from 'vitepress/theme'
-import Layout from './DefaultLayout.vue'
+import { theme } from '@yumix/vitepress/theme'
 import './style.css'
-import type { Theme } from 'vitepress'
 
-export default {
-  extends: DefaultTheme,
-  Layout
-} satisfies Theme
+export default theme

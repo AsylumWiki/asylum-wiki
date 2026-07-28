@@ -1,2 +1,2 @@
-*        @AsylumWiki/code
-*.md    @AsylumWiki/docs
+          @AsylumWiki/code
+/docs/    @AsylumWiki/docs

@@ -2,7 +2,13 @@
   "compilerOptions": {
     "module": "esnext",
     "target": "esnext",
+    "types": [
+      "node"
+    ],
     "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "lib": [
@@ -12,10 +18,8 @@
     ]
   },
   "include": [
-    "**/*.ts",
-    ".vitepress/**/*.ts",
-    ".vitepress/**/*.d.ts",
-    ".vitepress/**/*.vue"
+    "**/*",
+    ".vitepress/**/*"
   ],
   "exclude": [
     "node_modules/",
