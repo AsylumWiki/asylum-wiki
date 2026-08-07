@@ -15,7 +15,7 @@ jobs:
       - name: Checkout Latest Code
         uses: actions/checkout@v6
         with:
-          ref: ${{ github.head_ref }}
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
