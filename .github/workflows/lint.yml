@@ -29,5 +29,5 @@ jobs:
       - name: Run ESLint Auto Fix
         run: npm run lint:fix
 
-      - name: Commit and Push Phanges
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v7
