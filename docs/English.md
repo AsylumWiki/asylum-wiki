@@ -2,9 +2,12 @@
 layout: home
 slug: en
 order:
-  - intro
+  - i
   - c
-  - more
+  - e
+  - m
+title: AsylumWiki - Connect real-world experiences and humanitarian efforts worldwide for a borderless survival guide.
+titleTemplate: false
 hero:
   name: PEACE IS HOME
   tagline: Connect real-world experiences and humanitarian efforts worldwide for a borderless survival guide.
@@ -15,7 +18,13 @@ hero:
   actions:
     - theme: brand
       text: Asylum Brief
-      link: /en/intro/asylum-brief/
+      link: /en/i/asylum-brief/
+    - theme: alt
+      text: National Information
+      link: /en/c/
+    - theme: alt
+      text: Personal Experiences
+      link: /en/e/
 ---
 
 Most countries recognize sexual identity and sexual orientation as recognized fear of persecution[^1], but some countries still do not recognize it, so please double-check whether the destination country recognizes it.

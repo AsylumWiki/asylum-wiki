@@ -1,6 +1,6 @@
 ---
 layout: dir
-slug: intro
+slug: i
 order:
   - asylum-brief
   - visa-information

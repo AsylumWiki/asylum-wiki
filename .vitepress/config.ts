@@ -165,18 +165,13 @@ export default defineConfig({
       'zh-hans',
       'zh-hant'
     ].flatMap(lang => [
-      'c/as',
-      'c/an',
-      'c/as',
-      'c/eu',
-      'c/na',
-      'c/oc',
-      'c/sa',
-      'intro',
-      'more'
-    ].flatMap(cont => ({
-      link: `${lang}/${cont}`,
-      deep: 3
+      'i',
+      'c',
+      'e',
+      'm'
+    ].flatMap(link => ({
+      link: `${lang}/${link}`,
+      deep: 5
     }))),
     autoNavbar: Object.fromEntries([
       'en',
@@ -185,9 +180,10 @@ export default defineConfig({
     ].map(lang => [
       lang === 'en' ? 'root' : lang,
       [
-        'intro',
+        'i',
         'c',
-        'more'
+        'e',
+        'm'
       ].map(cont => ({
         link: `${lang}/${cont}`,
         deep: 2
