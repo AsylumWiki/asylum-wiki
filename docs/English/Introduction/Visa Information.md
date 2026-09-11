@@ -2,7 +2,9 @@
 layout: doc
 slug: visa-information
 ---
+
 # Visa Information
+
 ## Entering Another Country with a Legal Visa
 
 Many countries consider the applicant's visa history when reviewing visa applications. Therefore, holding a visa from any developed country is advantageous. Recent visas from developed countries like South Korea and Japan are especially helpful.
@@ -10,7 +12,7 @@ Many countries consider the applicant's visa history when reviewing visa applica
 - If you are from Shandong, it is more convenient to apply for these visas, especially since Qingdao offers many weekend travel opportunities.
 - Residents of Shanghai find it relatively easier to obtain a Japanese visa.
 - If you have no visa history, a large number of entry and exit records can also demonstrate your financial capability.
-  - If you are a resident of Guangdong, especially Shenzhen, frequent travel across the China-Hong Kong border may help improve the success rate of applying for European and American visas.
+- If you are a resident of Guangdong, especially Shenzhen, frequent travel across the China-Hong Kong border may help improve the success rate of applying for European and American visas.
 - Jeju Island in South Korea does not require a visa, as it is visa-free, so it cannot be counted.
 
 ## Border Management
@@ -34,21 +36,21 @@ Most countries require bank statements and proof of deposits. Students can provi
 
 ### General Visa Issuance Times
 
-| Country                | General Review Time              | Remarks            |
-| ---------------------- | -------------------------------- | ------------------ |
-| United States          | Immediate result after interview, 5-7 business days for visa issuance | Strict review      |
-| Canada                 | Long waiting time[1]             | Strict review, time varies |
-| Australia              | About 7-10 business days         | High difficulty for asylum applications |
-| New Zealand            | About 10-14 business days        |                    |
-| United Kingdom         | About 15 business days           |                    |
-| Schengen Area - France | About 5-7 business days          | Lenient            |
-| Schengen Area - Spain/Italy | About 5-7 business days      | Lenient            |
-| Schengen Area - Netherlands | About 5-7 business days     | Relatively lenient |
-| Schengen Area - Denmark/Switzerland | About 5-7 business days | Relatively strict |
-| Schengen Area - Germany | About 5-7 business days         | Strict             |
-| Japan                  | About 5-7 business days          | Bank statements or balance |
-| South Korea            | About 7 business days            | Bachelor's degree/Zhima Credit Score |
-| Southeast Asia         | About 3-5 business days          |
+| Country                             | General Review Time                                                   | Remarks                                 |
+| ----------------------------------- | --------------------------------------------------------------------- | --------------------------------------- |
+| United States                       | Immediate result after interview, 5-7 business days for visa issuance | Strict review                           |
+| Canada                              | Long waiting time[1]                                                  | Strict review, time varies              |
+| Australia                           | About 7-10 business days                                              | High difficulty for asylum applications |
+| New Zealand                         | About 10-14 business days                                             |                                         |
+| United Kingdom                      | About 15 business days                                                |                                         |
+| Schengen Area - France              | About 5-7 business days                                               | Lenient                                 |
+| Schengen Area - Spain/Italy         | About 5-7 business days                                               | Lenient                                 |
+| Schengen Area - Netherlands         | About 5-7 business days                                               | Relatively lenient                      |
+| Schengen Area - Denmark/Switzerland | About 5-7 business days                                               | Relatively strict                       |
+| Schengen Area - Germany             | About 5-7 business days                                               | Strict                                  |
+| Japan                               | About 5-7 business days                                               | Bank statements or balance              |
+| South Korea                         | About 7 business days                                                 | Bachelor's degree/Zhima Credit Score    |
+| Southeast Asia                      | About 3-5 business days                                               |                                         |
 
 > The waiting time for Canadian tourist visa applications varies greatly over time, so no meaningful reference information can be provided here.
 

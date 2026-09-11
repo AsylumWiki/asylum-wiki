@@ -1,45 +1,46 @@
 {
-  "name": "asylum-wiki",
+  "author": {
+    "email": "info@asylumwiki.com",
+    "name": "AsylumWiki"
+  },
+  "bugs": {
+    "email": "info@asylum.wiki",
+    "url": "https://github.com/AsylumWiki/asylum-wiki/issues"
+  },
   "description": "Asylum.wiki is dedicated to providing information and resources to all those seeking protection from persecution and serious human rights violations",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "@yumix/eslint": "^1.0.7",
+    "@yumix/vitepress": "^1.0.5",
+    "husky": "^9.1.7",
+    "lint-staged": "^17.3.0",
+    "vitepress": "^2.0.0-alpha.19",
+    "vitepress-markdown-timeline": "^1.2.2"
+  },
+  "homepage": "https://github.com/AsylumWiki/asylum-wiki#readme",
   "keywords": [
     "asylum",
     "wiki"
   ],
-  "homepage": "https://github.com/AsylumWiki/asylum-wiki#readme",
-  "bugs": {
-    "url": "https://github.com/AsylumWiki/asylum-wiki/issues",
-    "email": "info@asylum.wiki"
-  },
   "license": "(MIT AND CC-BY-SA-4.0)",
-  "author": {
-    "name": "AsylumWiki",
-    "email": "info@asylumwiki.com"
+  "lint-staged": {
+    "*.{js,ts,vue}": "eslint --fix"
   },
+  "name": "asylum-wiki",
+  "pre-commit": [
+    "lint"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AsylumWiki/asylum-wiki.git"
   },
-  "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
+    "docs:dev": "vitepress dev",
     "docs:preview": "vitepress preview",
-    "prepare": "husky",
     "lint": "eslint",
-    "lint:fix": "eslint --fix"
+    "lint:fix": "eslint --fix",
+    "prepare": "husky"
   },
-  "lint-staged": {
-    "*.{js,ts,vue}": "eslint --fix"
-  },
-  "pre-commit": [
-    "lint"
-  ],
-  "devDependencies": {
-    "@types/node": "^26.1.2",
-    "@yumix/eslint": "^1.0.4",
-    "@yumix/vitepress": "^1.0.3",
-    "husky": "^9.1.7",
-    "lint-staged": "^17.3.0",
-    "vitepress": "^2.0.0-alpha.19"
-  }
+  "type": "module"
 }

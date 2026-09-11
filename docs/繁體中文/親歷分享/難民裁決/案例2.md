@@ -3,36 +3,33 @@ layout: doc
 slug: case-2
 ---
 
-# Case \#2 Reasons for Decision
+# Case \#2 - Reasons for Decision
 
-> [!NOTE]
->
-> Source & Special Thanks To: 鲨鱼@Shakie_4005
->
-> Timeline of this refugee claim:
->
-> Summer 2024: Claim Submitted
->
-> ↓
->
-> Fall 2025: Short-hearing scheduled
->
-> ↓
->
-> Winter 2026: Hearing, claim accpeted at the hearing
->
+::: tip Source & Special Thanks To：
+鲨鱼@Shakie_4005
+:::
 
-## Decision
+::: details Timeline of this refugee claim
+Summer 2024: Claim Submitted
+
+↓
+
+Fall 2025: Short-hearing scheduled
+
+↓
+
+Winter 2026: Hearing, claim accpeted at the hearing
+:::
 
 **MEMBER:** These are the reasons behind my decision. [Name Redacted], you are a Convention refugee; your claim is accepted. The summary of your claim: You claim to be a citizen of China. You have asked for Canada's protection. You alleged that you fear persecution in your country because of your gender identity as a transgender woman.
 
 In deciding this claim, I have considered and applied the Chairperson's Guideline 9 on *[Proceedings Before the IRB Involving Sexual Orientation, Gender Identity and Expression, and Sex Characteristics.](https://irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx)*
 
-### Identity
+## Identity
 
 You proved who you are and where you are from. You have established your identity on the balance of probabilities. This means I believe it is more likely than not you are who you say you are. You established this through your testimony and documents, specifically by your original Chinese passport which was seized by the Canadian immigration authorities.
 
-### Convention Refugee
+## Convention Refugee
 
 Your fear is linked to one of the grounds of persecution in the Refugee Convention. There's a link between what you fear and one of the five (5) protection grounds listed in the Refugee Convention. Specifically, I find that your claim is connected to your gender identity as a transgender under the particular social group.
 
@@ -64,11 +61,11 @@ Secondly, the process for LGBTQ individuals in China to change gender informatio
 
 Therefore, there is still much room for improvement in the legal protection and social acceptance of the LGBTQ community in China. I therefore find that you have established an objective basis for your fear.
 
-### State Protection and Internal Flight Alternative
+## State Protection and Internal Flight Alternative
 
 You are not adequately protected by your state or safe anywhere in China. The objective evidence above states that there is no adequate state protection available to you in China, and there is no internal flight alternative because there is nowhere safe for you to go within China that you would not experience exclusion and discrimination.
 
-### My Conclusion
+## My Conclusion
 
 your claim is accepted. Based on all the evidence and my analysis, I determined that [Name] is a Convention refugee because you face a serious possibility of persecution in China. Your claim is therefore accepted. The hearing is now concluded.
 
@@ -76,4 +73,9 @@ Okay. So, I wish you the best of luck in your stay in Canada for the future. Tha
 
 ------**REASONS CONCLUDED**------
 
+*Signed*
 
+[Redacted]
+___
+
+[DATE REDACTED], 2026
