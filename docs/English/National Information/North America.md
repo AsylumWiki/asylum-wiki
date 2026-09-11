@@ -7,8 +7,6 @@ slug: na
 
 The asylum approval rate for gender-diverse applicants is relatively high in North American countries, but the challenge lies in entering the country.
 
-[[toc]]
-
 ## Canada
 
 According to the Canada–United States Safe Third Country Agreement, if you enter the United States without applying for political asylum, you will not be able to apply for political asylum in Canada. The latest revision on March 24, 2023, makes it extremely difficult, almost impossible, to apply for political asylum in Canada from the United States.

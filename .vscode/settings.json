@@ -1,36 +1,11 @@
 {
-  "editor.tabSize": 2,
-  "files.associations": {
-    "*.vue": "vue",
-    "*.json": "json"
-  },
-  "editor.formatOnType": true,
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit",
-    "source.fixAll.stylelint": "explicit"
-  },
-  "eslint.useFlatConfig": true,
-  "eslint.format.enable": true,
-  "eslint.validate": [
-    "javascript",
-    "typescript",
-    "vue",
-    "markdown",
-    "json"
-  ],
-  "eslint.probe": [
-    "javascript",
-    "typescript",
-    "vue",
-    "markdown",
-    "json"
-  ],
-  "js/ts.validate.enabled": true,
-  "js/ts.updateImportsOnFileMove.enabled": "always",
-  "js/ts.format.enabled": true,
-  "js/ts.tsdk.path": "node_modules\\typescript\\lib",
   "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[markdown]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[typescript]": {
@@ -39,10 +14,35 @@
   "[vue]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
-  "[markdown]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
   },
-  "[json]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  }
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "eslint.probe": [
+    "javascript",
+    "typescript",
+    "vue",
+    "markdown",
+    "json"
+  ],
+  "eslint.useFlatConfig": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "vue",
+    "markdown",
+    "json"
+  ],
+  "files.associations": {
+    "*.json": "json",
+    "*.vue": "vue"
+  },
+  "js/ts.format.enabled": true,
+  "js/ts.tsdk.path": "node_modules\\typescript\\lib",
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+  "js/ts.validate.enabled": true
 }

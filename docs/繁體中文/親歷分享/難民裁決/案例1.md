@@ -5,43 +5,42 @@ slug: case-1
 
 # Case \#1 - Reasons for Decision
 
-> [!NOTE]
->
-> Source & Special Thanks To：青豆@AomameYe
->
+::: tip Source & Special Thanks To：
+青豆@AomameYe
+:::
 
 ## INTRODUCTION
 
-[1]    These are the reasons for the decision regarding the claim of [REDACTED] who is a citizen of China. She has claimed refugee protection pursuant to [sections 96](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-96.html) and [97(1)](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-97.html) of the Immigration and Refugee Protection Act (IRPA).
+[1] These are the reasons for the decision regarding the claim of [REDACTED] who is a citizen of China. She has claimed refugee protection pursuant to [sections 96](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-96.html) and [97(1)](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-97.html) of the Immigration and Refugee Protection Act (IRPA).
 
 ### Procedural Considerations
 
-[2]  In determining the present refugee claim, the Panel took into account [Guideline 9: Proceedings Before the IRB Involving Sexual Orientation, Gender Identity and Expression, and Sex Characteristics.](https://irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx)
+[2] In determining the present refugee claim, the Panel took into account [Guideline 9: Proceedings Before the IRB Involving Sexual Orientation, Gender Identity and Expression, and Sex Characteristics.](https://irb-cisr.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx)
 
 ### Case History
 
-[3]  On [REDACTED], 2024, the claimant filed an application asking the Refugee Protection Division (RPD) to set a date for the hearing of her refugee claim. In lieu of a response to this application, the Panel has rendered a decision regarding this claim without a hearing. In doing so, the Panel acted according to the [Instructions Governing the Streaming of Less Complex Claims](https://www.irb-cisr.gc.ca/en/legal-policy/policies/pages/instructions-less-complex-claims.aspx) at the Refugee Protection Division and [paragraph 170(f) of the IRPA](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-170.html).
+[3] On [REDACTED], 2024, the claimant filed an application asking the Refugee Protection Division (RPD) to set a date for the hearing of her refugee claim. In lieu of a response to this application, the Panel has rendered a decision regarding this claim without a hearing. In doing so, the Panel acted according to the [Instructions Governing the Streaming of Less Complex Claims](https://www.irb-cisr.gc.ca/en/legal-policy/policies/pages/instructions-less-complex-claims.aspx) at the Refugee Protection Division and [paragraph 170(f) of the IRPA](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-170.html).
 
 ### Allegations
 
-[4]   In her written narrative, the claimant describes herself as a transgender woman from the city of [REDACTED]. From a young age, she self-identified as a bisexual, which prompted rejection from her parents. Often, the claimant's parents engaged in physically and psychologically abusive behaviour towards her.
+[4] In her written narrative, the claimant describes herself as a transgender woman from the city of [REDACTED]. From a young age, she self-identified as a bisexual, which prompted rejection from her parents. Often, the claimant's parents engaged in physically and psychologically abusive behaviour towards her.
 
 [5] During her studies at university, the claimant met her wife, with whom she relocated to Canada. Through the internet, the claimant increased her knowledge about the trans community. Her desire to undertake hormone replacement therapy also grew and she began
 treatment in [REDACTED] 2022. In [REDACTED] 2023, the claimant revealed her gender identity to her mother who had difficulty accepting the transition.
 
-[6]  The claimant fears that, if she returns to China, she will not have access to needed medication which requires parental consent. She will also not be able to change her gender legally because she has already married and would otherwise have to divorce her wife.
+[6] The claimant fears that, if she returns to China, she will not have access to needed medication which requires parental consent. She will also not be able to change her gender legally because she has already married and would otherwise have to divorce her wife.
 
-[7]  Moreover, the claimant fears that her family will send her to a conversion therapy centre where she would face mistreatment. She also fears discrimination in the workplace or in seeking a job, as well as incidents of violence in the public sphere.
+[7] Moreover, the claimant fears that her family will send her to a conversion therapy centre where she would face mistreatment. She also fears discrimination in the workplace or in seeking a job, as well as incidents of violence in the public sphere.
 
 ## DECISION
 
-[8]  The Panel finds that the claimant is a Convention refugee pursuant to section 96 of the IRPA. Should she return to China, the claimant faces a serious possibility of persecution. The reasons for this decision are as follows.
+[8] The Panel finds that the claimant is a Convention refugee pursuant to section 96 of the IRPA. Should she return to China, the claimant faces a serious possibility of persecution. The reasons for this decision are as follows.
 
 ## ANALYSIS
 
 ### Identity
 
-[9]  According to the IRPA, the Panel must consider whether claimants possess acceptable documentation establishing their identity[^1]. In the present case, the Panel finds that the claimant's identity as a national of China is established by the documents provided, specifically her passport[^2]. Considering her written statements and the evidence on file, the Panel is satisfied that the claimant has no permanent status in any other country.
+[9] According to the IRPA, the Panel must consider whether claimants possess acceptable documentation establishing their identity[^1]. In the present case, the Panel finds that the claimant's identity as a national of China is established by the documents provided, specifically her passport[^2]. Considering her written statements and the evidence on file, the Panel is satisfied that the claimant has no permanent status in any other country.
 
 ### Credibility
 
@@ -66,7 +65,7 @@ counselor,[REDACTED], which attests to the negative psychological impact that th
 
 [17] In addition, candidates for sex reassignment must be unmarried persons over the age of 20 and have significant experience taking on the appearance of the desired sex[^13]. Moreover, they must have had the desire to undergo gender-affirming surgery for more than five years[^14] and have informed their families of their intention to do so[^15].
 
-[18]  Some transgender people who wish to undergo surgery may not be able to meet these numerous criteria. Consequently, such requirements can become barriers to obtaining gender-affirming surgeries[^16].
+[18] Some transgender people who wish to undergo surgery may not be able to meet these numerous criteria. Consequently, such requirements can become barriers to obtaining gender-affirming surgeries[^16].
 
 [19] Also, under legislation amended in 2009, authorization to carry out surgery and obtaining sex reassignment is subject to review by the authorities. Only then can sex reassignment surgery be taken into account on identity documents, including cases when such surgeries are performed outside of China. Transgender people who have undergone surgery will in fact be able to marry under the sex indicated on the revised documents. However, no one can carry out related updates to the data describing civil status in the absence of aforementioned government authorization[^17].
 
@@ -74,7 +73,7 @@ counselor,[REDACTED], which attests to the negative psychological impact that th
 
 ### State Protection
 
-[21]  Absent a complete breakdown of authority, a state is presumed capable of providing adequate protection to its citizens[^18]. In the present case, however, the Panel finds that adequate state protection would be unavailable to the claimant in China.
+[21] Absent a complete breakdown of authority, a state is presumed capable of providing adequate protection to its citizens[^18]. In the present case, however, the Panel finds that adequate state protection would be unavailable to the claimant in China.
 
 [22] Invested with broad power, Chinese police mistreat LGBT people when they suspect them of forming an organized group and becoming a political force. In this context, activists and organizations working on LGBT issues report discrimination and harassment by authorities. That
 being said, police surveillance appears to vary from province to province and from locality to locality[^19].
@@ -90,15 +89,15 @@ of making public any conflict with representatives of the State or with any natu
 
 [26] According to documentary sources, the Spartacus Guide refers to "the birth of an active and liberated homosexual community" in China. The guide lists many homosexual meeting places, such as nightclubs, bars, saunas, in several cities across the country. Large cities such as Beijing and Shanghai, as well as Hong Kong, have the largest number of listed places[^22].
 
-[27]  The available documentation also cites hundreds of organizations defending gays in China, and some 80 to 90 groups defending lesbians. However, LGBT support groups are mainly based in Beijing and Shanghai and do not really offer services nationwide. Outside of major cities, gays face constraints from family and society often leaving them forced into marriage and double lives[^23].
+[27] The available documentation also cites hundreds of organizations defending gays in China, and some 80 to 90 groups defending lesbians. However, LGBT support groups are mainly based in Beijing and Shanghai and do not really offer services nationwide. Outside of major cities, gays face constraints from family and society often leaving them forced into marriage and double lives[^23].
 
-[28]  Transgender people represent the sexual minority that suffers the worst discrimination, including harassment by the police. Among LGBT people, women, including transgender women, are particularly subject to multiple forms of violence. Transgender people also have the greatest difficulty finding employment and are therefore left with very few resources. Many male-to-female transgender people are therefore forced into prostitution which is both illegal and dangerous[^24].
+[28] Transgender people represent the sexual minority that suffers the worst discrimination, including harassment by the police. Among LGBT people, women, including transgender women, are particularly subject to multiple forms of violence. Transgender people also have the greatest difficulty finding employment and are therefore left with very few resources. Many male-to-female transgender people are therefore forced into prostitution which is both illegal and dangerous[^24].
 
-[29]  In the Panel's view, the claimant would face discrimination if she were to live openly as a transgender person, even in a major urban centre. As in the rest of the country, the Panel finds that such discrimination would amount to persecution where the claimant is concerned.
+[29] In the Panel's view, the claimant would face discrimination if she were to live openly as a transgender person, even in a major urban centre. As in the rest of the country, the Panel finds that such discrimination would amount to persecution where the claimant is concerned.
 
 ## CONCLUSION
 
-[30]  In light of the preceding, the Panel concludes that [REDACTED] is a Convention refugee. Pursuant to section 96 of the IRPA, the Panel accepts her claim for refugee protection.
+[30] In light of the preceding, the Panel concludes that [REDACTED] is a Convention refugee. Pursuant to section 96 of the IRPA, the Panel accepts her claim for refugee protection.
 
 *Signed*
 
@@ -106,9 +105,6 @@ of making public any conflict with representatives of the State or with any natu
 ___
 
 [DATE REDACTED], 2025
-
-
-
 
 [^1]: [Section 106, IRPA](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-106.html)
 
@@ -128,7 +124,7 @@ ___
 
 [^9]: [*Ward* \[1993\] S.C.R. 689](https://canlii.ca/t/1fs1h)
 
-[^10]:Document 3 - [National Documentation Package on China (31 October 2024)](https://irb-cisr.gc.ca/en/country-information/ndp/Pages/index.aspx?pid=12710) - Tab 6.2 : [Chine : La situation des minorités sexuelles et de genre, France. Office français de protection des réfugiés et apatrides](https://www.ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/ofpra_flora/150202_chn_min_sex_web.pdf), 2 February 2015
+[^10]: Document 3 - [National Documentation Package on China (31 October 2024)](https://irb-cisr.gc.ca/en/country-information/ndp/Pages/index.aspx?pid=12710) - Tab 6.2 : [Chine : La situation des minorités sexuelles et de genre, France. Office français de protection des réfugiés et apatrides](https://www.ofpra.gouv.fr/libraries/pdf.js/web/viewer.html?file=/sites/default/files/ofpra_flora/150202_chn_min_sex_web.pdf), 2 February 2015
 
 [^11]: Document 3 - Tab 6.2 - *Ibid*.
 
