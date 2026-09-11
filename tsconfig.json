@@ -1,29 +1,29 @@
 {
   "compilerOptions": {
-    "module": "esnext",
-    "target": "esnext",
-    "types": [
-      "node"
-    ],
-    "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true,
-    "isolatedModules": true,
-    "verbatimModuleSyntax": true,
     "esModuleInterop": true,
-    "skipLibCheck": true,
+    "isolatedModules": true,
     "lib": [
       "esnext",
       "dom",
       "dom.iterable"
-    ]
+    ],
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "skipLibCheck": true,
+    "target": "esnext",
+    "types": [
+      "node"
+    ],
+    "verbatimModuleSyntax": true
   },
-  "include": [
-    "**/*",
-    ".vitepress/**/*"
-  ],
   "exclude": [
     "node_modules/",
     ".vitepress/dist/",
     ".vitepress/cache/"
+  ],
+  "include": [
+    "**/*",
+    ".vitepress/**/*"
   ]
 }

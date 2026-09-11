@@ -1,6 +1,7 @@
 ---
 layout: dir
-slug: m
+slug: e
 order:
-  - about-us
+  - s
+  - d
 ---

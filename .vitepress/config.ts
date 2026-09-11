@@ -31,7 +31,10 @@ export default defineConfig({
       lang: 'zh-Hant',
       link: '/zh-hant/',
       themeConfig: {
-        outline: { label: '頁面導覽' },
+        outline: {
+          label: '頁面導覽',
+          level: 'deep'
+        },
         docFooter: {
           prev: '上一頁',
           next: '下一頁'
@@ -50,7 +53,10 @@ export default defineConfig({
       lang: 'zh-Hans',
       link: '/zh-hans/',
       themeConfig: {
-        outline: { label: '页面导航' },
+        outline: {
+          label: '页面导航',
+          level: 'deep'
+        },
         docFooter: {
           prev: '上一页',
           next: '下一页'
@@ -69,6 +75,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo-blue.svg',
     siteTitle: false,
+    outline: 'deep',
     footer: {
       message: 'All contents are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.',
       copyright: 'Copyright © 2024-2026 AyslumWiki.'
@@ -165,18 +172,13 @@ export default defineConfig({
       'zh-hans',
       'zh-hant'
     ].flatMap(lang => [
-      'c/as',
-      'c/an',
-      'c/as',
-      'c/eu',
-      'c/na',
-      'c/oc',
-      'c/sa',
-      'intro',
-      'more'
-    ].flatMap(cont => ({
-      link: `${lang}/${cont}`,
-      deep: 3
+      'i',
+      'c',
+      'e',
+      'm'
+    ].flatMap(link => ({
+      link: `${lang}/${link}`,
+      deep: 5
     }))),
     autoNavbar: Object.fromEntries([
       'en',
@@ -185,9 +187,10 @@ export default defineConfig({
     ].map(lang => [
       lang === 'en' ? 'root' : lang,
       [
-        'intro',
+        'i',
         'c',
-        'more'
+        'e',
+        'm'
       ].map(cont => ({
         link: `${lang}/${cont}`,
         deep: 2

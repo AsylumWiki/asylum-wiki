@@ -3,7 +3,7 @@ layout: doc
 slug: about-us
 ---
 
-# Hi, this is **AsylumWiki**!
+# Hi, this is **AsylumWiki**
 
 <p style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/github/stars/AsylumWiki/asylum-wiki?style=flat-square&label=Stars" alt="">
@@ -12,6 +12,12 @@ slug: about-us
   <img src="https://img.shields.io/github/last-commit/AsylumWiki/asylum-wiki?display_timestamp=author&style=flat-square&label=Last%20Commit" alt="">
   <img src="https://img.shields.io/badge/License-CC_BY%E2%80%93SA_4.0-green?style=flat-square" alt="">
 </p>
+
+::: danger Important Notice
+Maintenance has resumed after a two-year hiatus, and we are currently expediting the organization of documentation. Some content may be outdated; please exercise discretion and verify the information.
+
+All documents are currently provided by third-party individuals, and the authors' views do not necessarily reflect the position of AsylumWiki. We are in the process of categorizing sources and cannot currently vouch for the accuracy, completeness, reliability, or suitability of any content; please verify the information independently.
+:::
 
 ## Intro
 
@@ -61,4 +67,3 @@ This project contains components licensed under different terms:
 Source Code: All source code in this project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 Documentation and Non-Code Assets: All documentation and non-code assets in this project are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en).
-
